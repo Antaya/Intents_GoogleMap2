@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents_GoogleMap</string>
+    <string name="btn_search">search</string>
+
+</resources>
